@@ -1,5 +1,21 @@
 # Catheter Placement Classification Using Deep Learning
 ### ADS2002 Data Challenges 4 | Semester 2 2023
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![ResNet](https://img.shields.io/badge/ResNet-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![DenseNet](https://img.shields.io/badge/DenseNet-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![UNet](https://img.shields.io/badge/UNet-00599C?style=for-the-badge&logo=keras&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN-013243?style=for-the-badge&logo=deep-learning&logoColor=white)
+![SVM](https://img.shields.io/badge/SVM-F7931E?style=for-the-badge&logo=scikit--learn&logoColor=white)
 
 ## Introduction
 This project addresses a **critical healthcare challenge** by developing deep learning models to precisely detect and classify the placement accuracy of medical catheters in chest X-ray images.  
@@ -149,25 +165,6 @@ The UNet model demonstrates **proficiency in accurately predicting abnormalities
 <br>
 
 ---
-
-## Built With
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![ResNet](https://img.shields.io/badge/ResNet-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![DenseNet](https://img.shields.io/badge/DenseNet-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![UNet](https://img.shields.io/badge/UNet-00599C?style=for-the-badge&logo=keras&logoColor=white)
-![CNN](https://img.shields.io/badge/CNN-013243?style=for-the-badge&logo=deep-learning&logoColor=white)
-![SVM](https://img.shields.io/badge/SVM-F7931E?style=for-the-badge&logo=scikit--learn&logoColor=white)
 
 ## Technologies Used
 
